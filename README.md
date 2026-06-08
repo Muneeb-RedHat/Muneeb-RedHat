@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muneeb Sajid 👋
 
-<!--
-**Muneeb-RedHat/Muneeb-RedHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student based in Lahore, Pakistan (2nd semester).
+I'm building my skills in AI Workflow Automation — creating smart, 
+automated systems that save businesses time and money.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm working with
+- **n8n** — workflow automation and AI agent pipelines
+- **Make.com** — visual automation for business workflows  
+- **Python** — scripting, APIs, data handling (pandas, NumPy)
+- **Groq API / Claude API** — AI inside automation workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+I'm actively building and documenting automation projects here.
+Each repo includes the workflow file, a README explaining what it 
+does, and screenshots. Check them out below.
+
+## 📫 Let's connect
+Open to freelance projects in AI automation and workflow building.
